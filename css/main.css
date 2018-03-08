@@ -2,6 +2,15 @@
   position:relative;
   width: 50%;
 }
+.h1{
+  color: black;
+  font-size: 100px;
+  text-align:center;
+}
+.p{
+  font-family: verdana;
+  font-size: 20px;
+}
 .image{
   display:block;
   width:100%
@@ -30,8 +39,13 @@
   top:10%;
   text-align:center;
 }
-.h1{
+.title{
   color: black;
-  font-size: 50px;
+  font-size: 100px;
   text-align:center;
+}
+.paragraph{
+  font-family: verdana;
+  font-size: 35px;
+  text-align: left;
 }
