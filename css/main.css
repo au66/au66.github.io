@@ -41,11 +41,12 @@
 }
 .title{
   color: black;
-  font-size: 100px;
+  font-size: 60px;
   text-align:center;
+  text-decoration:underline;
 }
 .paragraph{
-  font-family: verdana;
+  font-family: sans-serif;
   font-size: 35px;
   text-align: left;
 }
